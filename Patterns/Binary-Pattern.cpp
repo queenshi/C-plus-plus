@@ -41,5 +41,7 @@ int main() {
     
         cout << endl;
     }
+    cout << "Here is the pattern";
     return 0;
+
 }
